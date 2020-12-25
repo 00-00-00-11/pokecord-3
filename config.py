@@ -3,7 +3,7 @@ DATABASE_URI = "mongodb+srv://abhinavsingh:pokemon@pokemon.uqvrc.mongodb.net/Dat
 DATABASE_NAME = "Data"
 
 # Bot Configuration
-BOT_TOKEN = "Nzg4NjM5MDgwMDI3NjUyMTA3.X9mbYA.ehrDKR72v5uBnWFAzvlNwqk5ZGc"
+BOT_TOKEN = ""
 SECRET_KEY = None
 REDIS_CONF = {}
 SENTRY_URL = None
